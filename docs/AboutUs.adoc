@@ -47,7 +47,7 @@ Responsibilities: Dev Ops + Threading
 '''
 
 === Kevin Leonardo
-image::kevin.jpg[width="150", align="left"]
+image::k-l-a.jpg[width="150", align="left"]
 {empty}[http://github.com/k-l-a[github]]
 
 Role: Developer +
