@@ -4,6 +4,8 @@ ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 :imagesDir: images
 :stylesDir: stylesheets
 
+
+TEST
 AddressBook - Level 4 was developed by the https://se-edu.github.io/docs/Team.html[se-edu] team. +
 The dummy content given below serves as a placeholder to be used by future forks of the project. +
 {empty} +
